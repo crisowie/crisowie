@@ -69,7 +69,7 @@ I love turning ideas into full-fledged digital products and exploring new techno
 ## 📊 GitHub Stats
 
 ![Xristen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisowie&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crisowieE&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crisowie&layout=compact&theme=tokyonight)
 
 ---
 
